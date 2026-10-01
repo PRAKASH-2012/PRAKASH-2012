@@ -159,8 +159,8 @@
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td align="center" width="60%" valign="middle" style="border: none;">
-      <a href="https://leetcode.com/u/PRAKASHR20/">
-        <img src="https://leetcard.jacoblin.cool/PRAKASHR20?theme=radical&extension=activity" alt="LeetCode Stats" />
+      <a href="https://leetcode.com/u/PRAKASHRAMACHANDRAN/">
+        <img src="https://leetcard.jacoblin.cool/PRAKASHRAMACHANDRAN?theme=radical&extension=activity" alt="LeetCode Stats" />
       </a>
     </td>
     <td width="40%" valign="top" style="border: none; padding-left: 20px;">
@@ -168,7 +168,7 @@
       <ul>
         <li><b>Preferred Languages:</b> Java ☕ & Python 🐍</li>
         <li><b>Core Focus:</b> Data Structures, Algorithmic Optimization & Problem Solving</li>
-        <li><b>LeetCode Profile:</b> <a href="https://leetcode.com/u/PRAKASHR20/">leetcode.com/u/PRAKASHR20/</a></li>
+        <li><b>LeetCode Profile:</b> <a href="https://leetcode.com/u/PRAKASHRAMACHANDRAN/">leetcode.com/u/PRAKASHRAMACHANDRAN/</a></li>
         <li><b>Solutions Repository:</b> <a href="https://github.com/PRAKASH-2012/Leetcode">PRAKASH-2012/Leetcode</a></li>
       </ul>
     </td>
@@ -289,8 +289,8 @@ public class Developer {
   <a href="https://github.com/PRAKASH-2012">
     <img src="https://img.shields.io/badge/GitHub-PRAKASH--2012-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/PRAKASHR20/">
-    <img src="https://img.shields.io/badge/LeetCode-PRAKASHR20-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <a href="https://leetcode.com/u/PRAKASHRAMACHANDRAN/">
+    <img src="https://img.shields.io/badge/LeetCode-PRAKASHRAMACHANDRAN-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
 
