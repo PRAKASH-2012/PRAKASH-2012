@@ -15,7 +15,7 @@
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td align="center" width="30%" valign="middle" style="border: none;">
-      <img src="assets/developer_avatar.png" width="180" alt="Prakash R" style="border-radius: 50%;" />
+      <img src="https://github.com/gowrisankaran25/gowrisankaran25/blob/main/assets/developer_avatar.png?raw=true" width="180" alt="Prakash R" style="border-radius: 50%;" />
     </td>
     <td width="70%" valign="top" style="border: none; padding-left: 20px;">
       <p>🎓 <b>B.Tech in Computer Science & Business Systems</b> from V.S.B. Engineering College, Karur</p>
